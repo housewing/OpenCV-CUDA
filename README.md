@@ -1,5 +1,5 @@
 # OpenCV-CUDA
-I implement oil painting using Opencv and CUDA in c++.
+I implement oil painting using OpenCV and CUDA in c++.
 
 and some test
 
